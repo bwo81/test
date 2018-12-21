@@ -2,8 +2,7 @@
 <!-- SUBTITLE: A quick summary of New Page -->
 
 # Header
-
-```json
+(/home)[home]
 
 ```json
 {
@@ -15,4 +14,3 @@
 }
 ```
 
-```
