@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of New Page -->
 
 # Header
-(/home)[home]
+[home](/home)
 
 ```json
 {
